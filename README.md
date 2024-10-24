@@ -1,5 +1,5 @@
 ## Learning Git and GitHub
 
-### Git
+#### Git
 
 ### GitHub
